@@ -1,0 +1,5 @@
+timestamp,sleep_state,heart_rate,hrv,skin_temperature,activity_level
+2026-10-12T00:00:00Z,sleep,56,48,36.2,2
+2026-10-12T01:00:00Z,sleep,54,51,36.1,1
+2026-10-12T08:00:00Z,awake,68,35,36.3,30
+2026-10-12T18:00:00Z,awake,72,32,36.1,42
